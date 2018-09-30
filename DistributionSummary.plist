@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IMobPay.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BD9976F1B01D999DDD6201FB0DB8052E56983D91</string>
+				<key>dateExpires</key>
+				<string>2019/9/30</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>DGVJJ53UK4.com.imobpay.ruiqianbaoV3</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>DGVJJ53UK4</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>IMobPay.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>11c2ce12-f1cb-41b8-a07b-44a10998ad9e</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.imobpay.ruiqianbaoV3</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>DGVJJ53UK4</string>
+				<key>name</key>
+				<string>Shanghai Qiantuo Financial Information Service Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
